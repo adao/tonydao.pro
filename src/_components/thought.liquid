@@ -1,4 +1,4 @@
 <div role='thought-container'>
   <div role='thought-body'>{{ thought.content }}</div>
-  <div role='thought-date'>{{ thought.date | date_to_string }}</div>
+  <div role='thought-date'>{{ thought.date | date: "%d %b %Y - %k:%M" }}</div>
 </div>
