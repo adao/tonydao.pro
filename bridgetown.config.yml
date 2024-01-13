@@ -32,3 +32,8 @@ template_engine: liquid
 # timezone: America/Los_Angeles
 # pagination:
 #   enabled: true
+
+collections:
+  thoughts:
+    # output: true
+    permalink: pretty

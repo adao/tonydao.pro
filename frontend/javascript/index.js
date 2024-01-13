@@ -1,4 +1,6 @@
 import "$styles/index.css"
+import "$styles/thoughts.css"
+import "$styles/opinions.css"
 import "$styles/syntax-highlighting.css"
 
 // Import all JavaScript & CSS files from src/_components

@@ -1,0 +1,30 @@
+[role='thoughts-header'] {
+  margin: 0 0 1rem 0;
+  text-align: center;
+  font-weight: 100;
+  font-size: 2.5rem;
+  font-style: italic;
+  color: rgb(138, 138, 138);
+  line-height: 1.2;
+}
+
+[role='thoughts-container'] {
+  padding-inline: 3rem;
+}
+
+[role='thought-date'] {
+
+  font-style: italic;
+  text-align: right;
+  color: rgb(121, 121, 121);
+}
+
+@media (min-width: 768px) {
+  [role='thoughts-header'] {
+    margin: 3rem 0;
+    text-align: right;
+  }
+  [role='thoughts-container'] {
+    padding-inline: 0;
+  }
+}
