@@ -52,7 +52,7 @@ h1 {
 
 main {
   max-width: 71.2rem;
-  margin: 0 auto;
+  margin: 0 3rem;
   min-height: 100%;
 }
 
@@ -74,12 +74,12 @@ main {
     flex-direction: column;
     padding-inline: 2rem;
     padding-block: 3.2rem;
+    height: calc(100vh - 6.4rem);
     justify-content: start;
     align-items: flex-end;
     background: rgb(50, 50, 50);
   }
   main {
-    margin: 0 3rem;
     width: 100%;
   }
 }
