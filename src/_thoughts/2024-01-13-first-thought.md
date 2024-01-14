@@ -1,7 +1,6 @@
 ---
 title:  Here goes 
 date:   2024-01-13 07:40:00 +0700
-categories: updates
 ---
 
 Well , here goes . Building my website , my blog , my personal space , my CV , whatever you want to call it . A place that's my own on the internet . That is a reflection of me . A place that's due to be vulnerable , real , raw , and occasionally , contain a well-formed opinion .

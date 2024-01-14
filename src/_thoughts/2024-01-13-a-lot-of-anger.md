@@ -1,7 +1,6 @@
 ---
 title:  A lot of anger 
 date:   2024-01-13 19:41:00 +0700
-categories: updates
 ---
 
 You've got a lot of anger . It's not undue . There's a reason for all of it . But at the same time , it's served its purpose . 
