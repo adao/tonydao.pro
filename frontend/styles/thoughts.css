@@ -10,6 +10,9 @@
 
 [role='thoughts-container'] {
   padding-inline: 3rem;
+  [role='thought-container'] {
+    margin-bottom: 8rem;
+  }
 }
 
 [role='thought-date'] {
