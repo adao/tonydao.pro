@@ -29,7 +29,7 @@ a {
 }
 
 h1 {
-  margin: 1rem 0 3rem;
+  margin: 1rem 0;
   text-align: center;
   font-weight: 900;
   font-size: 2.5rem;
@@ -81,6 +81,9 @@ main {
   }
   main {
     width: 100%;
+  }
+  h1 {
+    margin: 3rem 0;
   }
 }
 
