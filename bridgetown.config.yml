@@ -37,3 +37,7 @@ collections:
   thoughts:
     # output: true
     permalink: pretty
+
+pagination:
+  enabled: true
+
