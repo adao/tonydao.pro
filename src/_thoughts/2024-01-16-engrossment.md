@@ -5,11 +5,11 @@ date: 2024-01-16 12:12:00 +0700
 
 The idea of being engrossed . 
 
-You hear a lot of social media these days about dopamine addiction . At first , it took me awhile to figure out what it was , but eventually I got it . 
+You hear a lot of social media these days about dopamine addiction . It took me awhile to figure out what it meant , but eventually I got it . 
 
-But it's also sort of a foreign concept , like it's very scientific in the way it's presented , and addiction is another word that's terribly confusing and is divisive in its own right . 
+But it's still sort of a foreign concept , and very scientific in how it's presented , and addiction is another word that's terribly confusing and divisive in its own right . 
 
-To explain in another way , it is the state of being engrossed . It's where you're totally absorbed by what you're doing . When people talk about dopamine addiction , I've heard it spoken about in primarily two contexts: scrolling social media and watching Netflix . Now , there are definitely other means , even reading fiction could be equated with dopamine addiction . 
+To explain in another way , it is the state of being engrossed . It's where you're totally absorbed by what you're doing . When people talk about dopamine addiction , I've heard it spoken about in largely two contexts: scrolling social media and watching Netflix . Though there are plenty of other means , even reading fiction could be equated with dopamine addiction . 
 
 It's that state where you tune out the external world , when an hour can go by and it feels like barely any time has passed . Being engrossed is a completely objective state , but it's what is holding your attention that makes it "good" or "bad" . 
 
