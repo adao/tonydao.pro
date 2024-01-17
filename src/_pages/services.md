@@ -7,7 +7,7 @@ title: Services
 
 ### Coaching
 
-I provide coaching and one-on-one support .
+I help people achieve their goals . 
 
 ### Coding
 
