@@ -1,5 +1,6 @@
 ---
-title: Meditation is a metaphor
+layout: thought
+title: meditation is a metaphor
 date: 2024-01-20 21:03:00 +0700
 ---
 

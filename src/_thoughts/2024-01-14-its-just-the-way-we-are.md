@@ -1,5 +1,6 @@
 ---
-title: It's just the way we are
+layout: thought
+title: it's just the way we are
 date: 2024-01-14 10:39:00 +0700
 ---
 

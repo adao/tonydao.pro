@@ -1,5 +1,6 @@
 ---
-title: Got to up the stakes
+layout: thought
+title: got to up the stakes
 date: 2024-01-16 15:11:00 +0700
 ---
 

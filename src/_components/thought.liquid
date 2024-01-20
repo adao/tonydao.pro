@@ -1,4 +1,12 @@
 <div role='thought-container'>
   <div role='thought-body'>{{ thought.content }}</div>
-  <div role='thought-date'>{{ thought.date | date: "%d %b %Y - %k:%M" }}</div>
+  <div role='thought-date'>
+    <span>
+      {{ thought.date | date: "%d %b %Y - %k:%M" }}
+    </span>
+    {% if with_link %}
+      <span> - </span>
+      <a href="{{ thought.relative_url }}">link</a>
+    {% endif %}
+  </div>
 </div>

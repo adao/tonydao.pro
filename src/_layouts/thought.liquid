@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div role='thoughts-header'>{{ data.title }}</div>
+<div role='thought-container'>
+  <div role='thought-body'>
+    {{ content }}
+  </div>
+  <div role='thought-date'>
+    <span>
+      {{ data.date | date: "%d %b %Y - %k:%M" }}
+    </span>
+  </div>
+</div>

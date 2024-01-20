@@ -9,7 +9,7 @@ paginate:
 <div role='thoughts-header'>Thoughts</div>
 <div role='thoughts-container'>
   {% for thought in paginator.resources %}
-    {% rendercontent "thought", thought: thought %}
+    {% rendercontent "thought", thought: thought, with_link: true %}
     {% endrendercontent %}
   {% endfor %}
 </div>

@@ -1,5 +1,6 @@
 ---
-title:  Here goes 
+layout: thought
+title:  here goes 
 date:   2024-01-13 07:40:00 +0700
 ---
 

@@ -1,5 +1,6 @@
 ---
-title:  A lot of anger 
+layout: thought
+title:  a lot of anger 
 date:   2024-01-13 19:41:00 +0700
 ---
 

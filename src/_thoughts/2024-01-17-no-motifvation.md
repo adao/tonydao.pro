@@ -1,5 +1,6 @@
 ---
-title: No motivation
+layout: thought
+title: no motivation
 date: 2024-01-17 12:58:00 +0700
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Engrossed
+layout: thought
+title: engrossed
 date: 2024-01-16 12:12:00 +0700
 ---
 

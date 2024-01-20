@@ -10,9 +10,10 @@
 
 [role='thoughts-container'] {
   padding-inline: 3rem;
-  [role='thought-container'] {
-    margin-bottom: 8rem;
-  }
+}
+
+[role='thought-container'] {
+  margin-bottom: 8rem;
 }
 
 [role='thought-date'] {
@@ -20,6 +21,10 @@
   font-style: italic;
   text-align: right;
   color: rgb(121, 121, 121);
+  a {
+    color: rgb(75, 75, 75);
+    text-decoration-color: rgb(55, 55, 55);
+  }
 }
 
 @media (min-width: 768px) {
