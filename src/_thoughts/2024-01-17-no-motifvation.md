@@ -4,7 +4,7 @@ title: no motivation
 date: 2024-01-17 12:58:00 +0700
 ---
 
-Some days you wake up feelin' like the world is yours for the taking . And some days you wake up feelin' like another aimless soul in the world .
+Some days you wake up feelin' like the world is yours for the taking . And some days you wake up feelin' like just another aimless soul .
 
 Your dreams from yesterday don't carry the same weight today . The ferocity you felt has left you . What then ? 
 
