@@ -7,4 +7,4 @@ title: Services
 
 ### Coaching
 
-I help people achieve their goals . 
+For individuals and organizations that want to improve .
