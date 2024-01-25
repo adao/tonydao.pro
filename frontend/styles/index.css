@@ -57,6 +57,9 @@ main {
   max-width: 71.2rem;
   margin: 0 3rem;
   min-height: 100%;
+  /* annoying , but otherwise margin-bottom won't work . for example : 
+    thought-container on home page in mobile view  */
+  padding-bottom: 1px;
 }
 
 [role='no-content'] {
