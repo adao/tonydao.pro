@@ -16,9 +16,9 @@ It was one of the funnest times I can remember .
 
 But I didn't like that it was what I did every weekend . I didn't like how I felt some mornings after . Weekends would roll around and I found myself wishing I had something else to do , but I didn't . So I found myself going to that bar , again and again . 
 
-Then one day , I  moved . And I began to do the things I'd always wanted to .
+And then , I left — left the job , left the city , and finally began to do the things I'd always talk about doing . 
 
-Still , I romanticize those nights at the bar . I think of the day I'll come back to that city , have a drink , and go up for a song . Chat with the regulars , huddle up at the single table outside and have a smoke with everyone . 
+Still , I think back of those nights at the bar . I think of the day I'll come back to that city , have a drink , and go up for a song . Chat with the regulars , huddle up at the single table outside and have a smoke with everyone . 
 
 I wonder if it's ideal , looking forward to the past . And if I shouldn't be more focused on the future . 
 
