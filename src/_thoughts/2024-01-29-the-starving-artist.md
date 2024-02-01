@@ -22,6 +22,6 @@ Of course , there are works of art and artists who have generated lots of value 
 
 If , by luck , their original work takes off , they'd be all the happier for it . But their primary concern is original work , and not profitable work .
 
-I think the greatest innovations are the result of artists and original thinkers . And I would say , they probably aren't even the ones who profit most from it . 
+I think the greatest innovations are the result of artists and original thinkers . And I imagine they're not even the ones who profit most from it . 
 
-It's because their concern is never profit , it's simply to explore . 
+Because their concern is never profit , it's simply to explore . 
