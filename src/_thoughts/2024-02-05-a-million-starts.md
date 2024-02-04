@@ -13,4 +13,4 @@ and we get excited . we get excited that we're finally going to be done . <br/>
 then one thing comes up , then another . then another .<br/>
 and before we're even done , we find ourselves working on something else . <br/>
 and we start again . a million and one . and we wonder . <br/>
-if we'll ever come home again . 
+will we ever be home again . 

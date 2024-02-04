@@ -14,6 +14,6 @@ Discipline ? Do you force it ? Do you stick to the schedule you've set for yours
 
 To each their own . What one man does does not dictate what all men should do (choose your role models carefully) 
 
-I'm sitting here writing this because this is what I'm feeling at this moment . I don't have an answer . But I can tell you there's absolutely nothing wrong with this moment . It's actually quiet and quite peaceful . It is a stark contrast to the feelings described earlier .
+I'm sitting here writing this because this is what I'm feeling at the moment . I don't have an answer quite yet . But I can tell you there's absolutely nothing wrong with this moment . It's actually quiet and quite peaceful . A stark contrast to the feelings of yesterday .
 
 Perhaps enjoy it .
