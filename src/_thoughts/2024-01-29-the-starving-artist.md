@@ -18,7 +18,7 @@ For if a work is original , truly original , how would we know what to value it 
 
 Value is strongly tied to what already exists , what works , what generates more of said value . Everything outside of that system can be said to be unvaluable . 
 
-Of course , there are works of art and artists who have generated lots of value for themselves and others . And to do so wouldn't make them unoriginal . I'm just saying there are artsits who will continue doing work they believe in , even if it doesn't garner attention , simply because . 
+Of course , there are works of art and artists who have generated lots of value for themselves and others . And to do so wouldn't make them unoriginal . I'm just saying there are artists who will continue doing work they believe in , even if it doesn't garner attention , simply because . 
 
 If , by luck , their original work takes off , they'd be all the happier for it . But their primary concern is original work , and not profitable work .
 
