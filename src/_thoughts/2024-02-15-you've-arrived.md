@@ -26,7 +26,7 @@ but it's not . and there's so many reasons it's not . but the big one for me —
 
 but it's not . it's not . it's more of the same . arbitrary deadlines , people abusing their authority , hierarchy , corporate structures , societal structures , etc. etc. 
 
-and you find yourself disappointed , all the time , in your fellows . it's no longer *them* , authority . it's you , it's us .
+and you find yourself disappointed , all the time , in your fellows . it's no longer *them* , the powers that be . it's you , it's us .
 
 and , i guess , through all of this , you learn it's never going to be perfect . that , in fact , the whole time you should have been fighting to make things better . that there's always going to be an oppressor , a person who likes to shit on others . that there is no waiting , no waiting for a better time to come , or for someone else to come and make it better , that it's on you to make things better . for every one . for yourself . and it's going to be a constant battle . it'll be every day . there is no rest state , no final destination .
 
